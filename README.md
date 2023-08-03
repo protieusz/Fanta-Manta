@@ -22,3 +22,13 @@ Bottom side. Fanta-Manta logo by jcastaneda
 This logo is from https://logowik.com/fanta-new-vector-logo-3767.html
 ![Screenshot 2023-08-01 at 11 42 33 AM](https://github.com/protieusz/Fanta-Manta/assets/118025702/21e09832-663a-4882-b68f-24abafe65fb0)
 
+Meme Add Case 3 Aug 2023
+![Screenshot 2023-08-03 at 1 33 49 PM](https://github.com/protieusz/Fanta-Manta/assets/118025702/e48b6c10-4265-4c48-a6de-98e4c7f0df44)
+
+![Screenshot 2023-08-03 at 1 22 01 PM](https://github.com/protieusz/Fanta-Manta/assets/118025702/414b0556-abe4-406f-93f4-6e02b3c2f8aa)
+
+![Screenshot 2023-08-03 at 1 22 53 PM](https://github.com/protieusz/Fanta-Manta/assets/118025702/6bf23edf-d062-4e8e-b589-7c1e57f4099b)
+
+![Screenshot 2023-08-03 at 1 22 33 PM](https://github.com/protieusz/Fanta-Manta/assets/118025702/ccd88f97-be63-4f51-ba59-1fb2f77b471f)
+
+![Screenshot 2023-08-03 at 1 22 20 PM](https://github.com/protieusz/Fanta-Manta/assets/118025702/520cb4e3-0967-4b23-b482-610599279a1c)
