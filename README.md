@@ -47,10 +47,6 @@ Test Fitting
 ![IMG_9564](https://github.com/protieusz/Fanta-Manta/assets/118025702/ade90826-38ce-4558-a957-5db57e6a3544)
 ![IMG_9563](https://github.com/protieusz/Fanta-Manta/assets/118025702/ce6c1bfe-f53f-4294-b372-6db7fc5a41f5)
 ![IMG_9562](https://github.com/protieusz/Fanta-Manta/assets/118025702/b05f23d9-72d5-448a-ba08-f742c0b833df)
-![IMG_9561](https://github.com/protieusz/Fanta-Manta/assets/118025702/19bb94bd-732c-4209-8a08-bf20b49d6f32)
-![IMG_9560](https://github.com/protieusz/Fanta-Manta/assets/118025702/d9b62014-80e0-4eab-86fb-9969489cc443)
-![IMG_9559](https://github.com/protieusz/Fanta-Manta/assets/118025702/b654df7f-35c9-4458-9b93-8825ee2d6131)
-![IMG_9558](https://github.com/protieusz/Fanta-Manta/assets/118025702/aec143a0-65ae-49db-a39c-1b258eaecf33)
 
 ![IMG_9568](https://github.com/protieusz/Fanta-Manta/assets/118025702/49379318-ce1c-4e5b-8890-59be37e94ed5)
 ![IMG_9567](https://github.com/protieusz/Fanta-Manta/assets/118025702/f5b367fe-595e-4d6d-86c5-fb1976fca2dd)
