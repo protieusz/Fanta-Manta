@@ -9,6 +9,54 @@ PCBs are currently in production. 1 Aug 2023.
 
 Print the designs at your own risk.  No support is given. Thanks.
 
+Update: 18 Aug 2023
+
+Final Product Build
+
+![IMG_9574](https://github.com/protieusz/Fanta-Manta/assets/118025702/6da51046-9e09-44e1-9aa5-1e2a8221af63)
+![IMG_9571](https://github.com/protieusz/Fanta-Manta/assets/118025702/78c68a16-c635-4094-9ce1-aff7791415fd)
+![IMG_9572](https://github.com/protieusz/Fanta-Manta/assets/118025702/b5ebd717-41b3-42da-85c3-f066c7b10b03)
+![IMG_9573](https://github.com/protieusz/Fanta-Manta/assets/118025702/0238599a-2249-43f9-b009-20553092ce27)
+
+
+Unboxing
+![IMG_9527](https://github.com/protieusz/Fanta-Manta/assets/118025702/497e54f8-104a-4323-bbd7-c9c4ba2f44c6)
+
+Front
+![IMG_9532](https://github.com/protieusz/Fanta-Manta/assets/118025702/2f444430-9703-46b4-844d-dc97d4f2ff55)
+
+Back
+![IMG_9532](https://github.com/protieusz/Fanta-Manta/assets/118025702/a8ba8477-519c-4853-b546-99d8a87ae96a)
+
+Test Fitting
+![IMG_9533](https://github.com/protieusz/Fanta-Manta/assets/118025702/d0667e98-f136-4aa9-a229-848dc1ced37f)
+
+![IMG_9535](https://github.com/protieusz/Fanta-Manta/assets/118025702/f703d0ed-bb99-47d2-9283-8ad5d4aa9348)
+
+![IMG_9537](https://github.com/protieusz/Fanta-Manta/assets/118025702/ee3a4a22-cbff-489d-9fd6-a2b8dd2d672a)
+![IMG_9536](https://github.com/protieusz/Fanta-Manta/assets/118025702/796bc50d-5e19-4aee-bbc1-72a9fa0e69aa)
+![IMG_9538](https://github.com/protieusz/Fanta-Manta/assets/118025702/de909a29-fc5f-4e68-acf1-2c5940beb9ce)
+![IMG_9539](https://github.com/protieusz/Fanta-Manta/assets/118025702/8025c7c4-06a7-42e7-9cca-dd46369cc83e)
+
+![IMG_9546](https://github.com/protieusz/Fanta-Manta/assets/118025702/98c5987b-8ea1-44c9-9792-ea24de429ed1)
+
+![IMG_9555](https://github.com/protieusz/Fanta-Manta/assets/118025702/816ad76b-5252-45eb-be43-cc9082867608)
+![IMG_9554](https://github.com/protieusz/Fanta-Manta/assets/118025702/4e32010d-23de-40ce-a000-d778e5b1a682)
+![IMG_9553](https://github.com/protieusz/Fanta-Manta/assets/118025702/95d0ead0-444c-49a7-9a31-b04c81caee22)
+![IMG_9564](https://github.com/protieusz/Fanta-Manta/assets/118025702/ade90826-38ce-4558-a957-5db57e6a3544)
+![IMG_9563](https://github.com/protieusz/Fanta-Manta/assets/118025702/ce6c1bfe-f53f-4294-b372-6db7fc5a41f5)
+![IMG_9562](https://github.com/protieusz/Fanta-Manta/assets/118025702/b05f23d9-72d5-448a-ba08-f742c0b833df)
+![IMG_9561](https://github.com/protieusz/Fanta-Manta/assets/118025702/19bb94bd-732c-4209-8a08-bf20b49d6f32)
+![IMG_9560](https://github.com/protieusz/Fanta-Manta/assets/118025702/d9b62014-80e0-4eab-86fb-9969489cc443)
+![IMG_9559](https://github.com/protieusz/Fanta-Manta/assets/118025702/b654df7f-35c9-4458-9b93-8825ee2d6131)
+![IMG_9558](https://github.com/protieusz/Fanta-Manta/assets/118025702/aec143a0-65ae-49db-a39c-1b258eaecf33)
+
+![IMG_9568](https://github.com/protieusz/Fanta-Manta/assets/118025702/49379318-ce1c-4e5b-8890-59be37e94ed5)
+![IMG_9567](https://github.com/protieusz/Fanta-Manta/assets/118025702/f5b367fe-595e-4d6d-86c5-fb1976fca2dd)
+![IMG_9566](https://github.com/protieusz/Fanta-Manta/assets/118025702/1b974921-2ca2-4337-a4ca-fa02e64165f3)
+![IMG_9565](https://github.com/protieusz/Fanta-Manta/assets/118025702/dc8d98c5-db07-4e07-8da8-80c74fa092f8)
+
+
 PCB model
 
 Front side
