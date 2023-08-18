@@ -16,7 +16,7 @@ uint16_t COMBO_LEN = COMBO_LENGTH;
 
 const uint16_t PROGMEM combo_del[] = {KC_Y, KC_H, COMBO_END};
 const uint16_t PROGMEM combo_esc[] = {KC_Q, KC_A, COMBO_END};
-const uint16_t PROGMEM combo_enter[] = {KC_DOT, KC_SLSH, COMBO_END};
+const uint16_t PROGMEM combo_enter[] = {KC_L, KC_SCLN, COMBO_END};
 const uint16_t PROGMEM combo_ralt[] = {KC_P, KC_SCLN, COMBO_END};
 const uint16_t PROGMEM combo_lgui[] = {KC_G, KC_B, COMBO_END};
 const uint16_t PROGMEM combo_lctl[] = {KC_T, KC_G, COMBO_END};
@@ -48,7 +48,7 @@ LSFT_T(KC_Z), KC_X, KC_C, KC_V, KC_B, LT(1,KC_BSPC),             LT(2,KC_SPC),KC
 
 KC_1, KC_2, KC_3, KC_4, KC_5,                                           KC_6, KC_7, KC_8, KC_9, KC_0,
 KC_TAB, _______, _______, _______, _______,                             KC_MINS,  KC_EQL,  KC_LBRC, KC_RBRC, KC_QUOT,
-_______, _______, _______, _______, _______, _______,          _______, KC_TILD,  KC_GRV,  _______, _______, KC_BSLS
+_______, _______, KC_MUTE, KC_VOLD, KC_VOLU, _______,          _______, KC_TILD,  KC_GRV,  _______, _______, KC_BSLS
                   
 
 ),
