@@ -26,7 +26,8 @@ Front
 ![IMG_9532](https://github.com/protieusz/Fanta-Manta/assets/118025702/2f444430-9703-46b4-844d-dc97d4f2ff55)
 
 Back
-![IMG_9532](https://github.com/protieusz/Fanta-Manta/assets/118025702/a8ba8477-519c-4853-b546-99d8a87ae96a)
+![IMG_9531](https://github.com/protieusz/Fanta-Manta/assets/118025702/495d9696-d1e0-4b5d-8468-7c0d77d758b7)
+
 
 Test Fitting
 ![IMG_9533](https://github.com/protieusz/Fanta-Manta/assets/118025702/d0667e98-f136-4aa9-a229-848dc1ced37f)
