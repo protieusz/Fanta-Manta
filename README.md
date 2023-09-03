@@ -9,6 +9,7 @@ PCBs are currently in production. 1 Aug 2023.
 
 Print the designs at your own risk.  No support is given. Thanks.
 
+I accept any tips or donations of a cup of coffee to help keep me motivate but you don't have to if you don't want to. Thanks. https://ko-fi.com/protieusz
 Update: 18 Aug 2023
 
 Final Product Build
